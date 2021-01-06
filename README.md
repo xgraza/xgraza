@@ -6,7 +6,8 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 
 **🔭 I’m currently working on ...**
 - [stereo.kt](https://github.com/Stereo-Developers/stereo.kt) (look on the flight branch)
-- [KKB](https://github.com/TeamKKB) Bots' repo is private, though.
+- [KKB](https://github.com/KyeKillerBot) Bots repo is private, though.
+- [Riot](https://github.com/BlurpleDev) However, bots repo is also private.
 
 
 **🌱 I’m currently learning ...**
