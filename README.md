@@ -13,6 +13,12 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 - [Kotlin](https://kotlinlang.org/), the hot JVM language
 - [Go](https://golang.org/). I don't know what its like to use GoLang, but we'll see :)
 
+**📫 How to reach me**
+- [discord](https://discord.com/users/535585397435006987), or aesthetical#2545
+*uh yeah thats about it lol*
+
+---
+
 <h5 align="center">ixaesthetical :: 2021</h5>
 
 <!--
