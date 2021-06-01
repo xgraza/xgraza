@@ -1,6 +1,6 @@
 ### Hi there, I'm aesthetical 👋
 
-Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd prefer Gavin. 
+Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd prefer Gavin. Im a massive femboy btw uwu
 
 ---
 
