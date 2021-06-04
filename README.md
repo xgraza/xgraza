@@ -5,34 +5,17 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 ---
 
 **🔭 I’m currently working on ...**
-- [stereo.kt](https://github.com/Stereo-Developers/stereo.kt) (look on the flight branch)
-- [KKB](https://github.com/KyeKillerBot) Bots repo is private, though.
-- [Riot](https://github.com/BlurpleDev) However, bots repo is also private.
-
+- [KKB](https://top.gg/bot/431893326892105758), a multipurpose discord bot written in TypeScript.
+- [Stereo](https://top.gg/bot/725808086933176410), my discord bot that is being rewritten in Java.
+- Orionis, an private anarchy client (minecraft, 2b2t) I'm developing.
+- [aesthetical.xyz](https://aesthetical.xyz), my own website that also works as my personal image host.
 
 **🌱 I’m currently learning ...**
-- [Kotlin](https://kotlinlang.org/), the hot JVM language
-- [Go](https://golang.org/). I don't know what its like to use GoLang, but we'll see :)
+- [Kotlin](https://kotlinlang.org/), a JVM language.
 
 **📫 How to reach me**
 - [discord](https://discord.com/users/535585397435006987), or aesthetical#2545
-*uh yeah thats about it lol*
-
+- [twitter](https://twitter.com/ixaesthetical1) - i dont ever use this, so youre better off using discord.
 ---
 
 <h5 align="center">ixaesthetical :: 2021</h5>
-
-<!--
-**Sxmurai/Sxmurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
