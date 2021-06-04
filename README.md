@@ -15,7 +15,8 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 
 **📫 How to reach me**
 - [discord](https://discord.com/users/535585397435006987), or aesthetical#8318
-- [twitter](https://twitter.com/ixaesthetical1) - i dont ever use this, so youre better off using discord.
---
+- [twitter](https://twitter.com/ixaesthetical1), i dont ever use this, so youre better off using discord.
+
+---
 
 <h5 align="center">ixaesthetical :: 2021</h5>
