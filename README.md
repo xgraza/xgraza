@@ -20,9 +20,7 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 <details>
   <summary><bold>🎵 What I'm vibing to on Spotify</bold></summary>
 
-  <img 
-    src="https://spotify.aio-api.ml/spotify?id=abxiei2c7de0yqic3nzwd7oqi&theme=plain&image=true&color_theme=dark&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=true"
-  / >
+  <img src="https://spotify.aio-api.ml/spotify?id=abxiei2c7de0yqic3nzwd7oqi&theme=plain&image=true&color_theme=dark&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=true">
 </details>
 
 ---
