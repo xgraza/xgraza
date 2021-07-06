@@ -17,6 +17,14 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 - [discord](https://discord.com/users/535585397435006987), or aesthetical#8318
 - [twitter](https://twitter.com/ixaesthetical1), i dont ever use this, so youre better off using discord.
 
+<details>
+  <summary><bold>🎵 What I'm vibing to on Spotify</bold></summary>
+
+  <img 
+    src="https://spotify.aio-api.ml/spotify?id=abxiei2c7de0yqic3nzwd7oqi&theme=plain&image=true&color_theme=dark&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=true"
+  / >
+</details>
+
 ---
 
 <h5 align="center">ixaesthetical :: 2021</h5>
