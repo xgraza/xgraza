@@ -10,6 +10,7 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 - [aesthetical.xyz](https://aesthetical.xyz), my own website that also works as my personal image host.
 
 **🌱 I’m currently learning ...**
+
 Nothing at the moment, soon:tm: though
 
 **📫 How to reach me**
