@@ -7,15 +7,13 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 **🔭 I’m currently working on ...**
 - [AesthetiDev](https://github.com/AesthetiDev), a github org that I put my Minecraft related shit.
 - [KKB](https://top.gg/bot/431893326892105758), a multipurpose discord bot written in TypeScript.
-- [Stereo](https://top.gg/bot/725808086933176410), my discord bot that is being rewritten in Java.
 - [aesthetical.xyz](https://aesthetical.xyz), my own website that also works as my personal image host.
 
 **🌱 I’m currently learning ...**
-- [Kotlin](https://kotlinlang.org/), a JVM language.
+Nothing at the moment, soon:tm: though
 
 **📫 How to reach me**
-- [discord](https://discord.com/users/535585397435006987), or aesthetical#8318
-- [twitter](https://twitter.com/ixaesthetical1), i dont ever use this, so youre better off using discord.
+- [twitter](https://twitter.com/ixaesthetical1), i dont ever use this so rip
 
 <details>
   <summary><bold>🎵 What I'm vibing to on Spotify</bold></summary>
@@ -25,4 +23,4 @@ Hey! I'm aesthetical, also known as Gavin (he/him). Either one is fine, but I'd 
 
 ---
 
-<h5 align="center">ixaesthetical :: 2021</h5>
+<h5 align="center">Aestheticall - 2019-2021</h5>
