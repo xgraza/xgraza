@@ -15,6 +15,7 @@ Nothing at the moment, soon:tm: though
 
 **📫 How to reach me**
 - [twitter](https://twitter.com/ixaesthetical1), i dont ever use this so rip
+- ~~discord~~ i used to use this but i decided to fuck off with it, so not there either rip
 
 <details>
   <summary><bold>🎵 What I'm vibing to on Spotify</bold></summary>
