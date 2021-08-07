@@ -14,6 +14,7 @@ Hey! I'm Gavin (he/him). I do Java shit and pretend to be good at CPvP.
 Nothing at the moment, soon:tm: though
 
 **📫 How to reach me**
+
 don't. unless i knew you before August 1st and it has nothing to do with my repos/gh issues, dont try to contact me.
 
 <details>
