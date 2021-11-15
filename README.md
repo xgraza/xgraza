@@ -15,3 +15,7 @@ heres a few other fun projects that ive worked on
 - [client-base](https://github.com/Sxmurai/client-base) I'm gonna rewrite it, but yeah its a client base for 1.12.2
 
 im probably working on a few other things, but oh well. if i remember ill update this
+
+---
+
+<div align="center"><img src="https://media.discordapp.net/attachments/906625185430524005/909633141927460864/0x22_moment.png"/></div>
