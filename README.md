@@ -18,9 +18,7 @@ im probably working on a few other things, but oh well. if i remember ill update
 
 ---
 
-listening to on the spotify:
-
-![Spotify playing](https://spotify.aio-api.ml/spotify?id=abxiei2c7de0yqic3nzwd7oqi&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false)
+<div align="center"><img src="https://spotify.aio-api.ml/spotify?id=abxiei2c7de0yqic3nzwd7oqi&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" /></div>
 
 ---
 
