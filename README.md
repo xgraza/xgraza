@@ -15,9 +15,3 @@ heres a few other fun projects that ive worked on
 im probably working on a few other things, but oh well. if i remember ill update this
 
 ---
-
-<div align="center"><img src="https://spotify.aio-api.ml/spotify?id=abxiei2c7de0yqic3nzwd7oqi&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" /></div>
-
----
-
-<div align="center"><img src="https://media.discordapp.net/attachments/906625185430524005/909633141927460864/0x22_moment.png"/></div>
