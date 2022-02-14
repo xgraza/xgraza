@@ -1,17 +1,26 @@
-hi, im gavin. 14 year old java developer. yeah that's all you need to know about me.
+hi, im gavin. i do an arangement of shit for fun. heres some of the languages i know or have done some shit with:
 
-i make mostly block game hacks. here's a few im working on/helping on
+- Java (pretty obvious if you look at my repos)
+- Kotlin (i dont remember shit, i should really re-learn it)
+- JavaScript (cringe)
+- TypeScript (although its a superset of JavaScript, idrc)
+- C (i still dont understand pointers lul)
+- Python (not advanced, just enough to get me around)
 
-- [inferno](https://github.com/Sxmurai/inferno) A publicly developed anarchy client.
-- [cosmos](https://github.com/momentumdevelopment/cosmos) A publicly developed anarchy client made by [linustouchtips](https://github.com/linustouchtips) that I'm helping on where I can.
-- [saturn](https://github.com/Sxmurai/saturn-1.8.9) A privately developed 1.8.9 client. Got bored, so I made this
+now that you know what languages i have done some shit with, here's some shit im working on:
 
-heres a few other fun projects that ive worked on
+- [saturn-client](https://github.com/Sxmurai/saturn-client) a client for 1.18.1 that is meant for strict servers (rn its shit but im working on it)
+- [inferno](https://github.com/Sxmurai/inferno) ive kinda stopped working on this, but i made this client so
+- [cosmos](https://github.com/momentumdevelopment/cosmos) im a dev for this client, fun to work on
+- [observant](https://github.com/Sxmurai/observant) a *really* shitty anticheat just for fun, not expecting to really get anywhere
+- [aesthetirat](https://github.com/Sxmurai/aesthetirat) a fun little project for fun and "educational purposes"
 
-- [aesthetirat](https://github.com/Sxmurai/aesthetirat) does exactly what you think it does
-- [webhook-spammer](https://github.com/Sxmurai/webhook-spammer) does the funny and spams RAT's webhooks
-- [learning-c](https://github.com/Sxmurai/learning-c) I cant really consider this a project, but I'm learning C so that's something
+now that ive been through shit ive made or helped make, heres some less important repos that ive done shit with
 
-im probably working on a few other things, but oh well. if i remember ill update this
+- [3arthh4ck](https://github.com/Sxmurai/3arthh4ck-Future) i didnt make 3arthh4ck, but this repo fixes compatability with Future v2.12 (and v2.13 havent tested)
+- [learning-c](https://github.com/Sxmurai/learning-c) me learning C, so dont expect top tier code
+- [client-collection](https://github.com/Sxmurai/client-collection) a repo full of JARs or leaked client srcs for fun
+
+that's about it, have a nice day :)
 
 ---
