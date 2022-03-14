@@ -10,7 +10,8 @@ hi, im gavin. i do an arangement of shit for fun. heres some of the languages i 
 now that you know what languages i have done some shit with, here's some shit im working on:
 
 - [saturn-client](https://github.com/Sxmurai/saturn-client) a client for 1.18.1 that is meant for strict servers (rn its shit but im working on it)
-- [inferno](https://github.com/Sxmurai/inferno) ive kinda stopped working on this, but i made this client so
+- [nebula](https://github.com/Sxmurai/nebula) my new anarchy client
+- [inferno](https://github.com/Sxmurai/inferno) dead project lelsauce
 - [cosmos](https://github.com/momentumdevelopment/cosmos) im a dev for this client, fun to work on
 - [observant](https://github.com/Sxmurai/observant) a *really* shitty anticheat just for fun, not expecting to really get anywhere
 - [aesthetirat](https://github.com/Sxmurai/aesthetirat) a fun little project for fun and "educational purposes"
