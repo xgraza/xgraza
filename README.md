@@ -1,4 +1,4 @@
-hi, im gavin. i do an arangement of shit for fun. heres some of the languages i know or have done some shit with:
+henlo, im gavin. i am a 15 year old hobbyist programmer. i mostly do java, but am learning kotlin. anywhoozies, heres some shit i've done:
 
 - Java (pretty obvious if you look at my repos)
 - Kotlin (i dont remember shit, i should really re-learn it)
