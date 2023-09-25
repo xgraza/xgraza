@@ -1,1 +1,1 @@
-<img src="https://yeezymafia.com/content/images/2021/11/Screenshot-2021-11-22-at-16.07.15.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/2/23/Travis_Scott_-_Utopia.png"/>
