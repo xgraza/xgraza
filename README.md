@@ -1,3 +1,1 @@
-my b so bad she cant even go outside
-
-my b so bad she cant even go online
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=abxiei2c7de0yqic3nzwd7oqi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
